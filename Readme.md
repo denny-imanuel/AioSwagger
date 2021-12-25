@@ -1,4 +1,4 @@
-# Aio API
+# Aio Swagger
 by Denny Imanuel
 
 This project shows how to build Rest API complete with Swagger UI documentation using Python programming language and Aio Http framework.
